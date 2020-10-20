@@ -73,3 +73,22 @@ li > img {
     height: 10%;
     vertical-align: middle;
 }
+
+li {
+    font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
+    line-height: 1.8;
+    color: black;
+    background-color: #fff
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
