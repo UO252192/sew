@@ -57,18 +57,18 @@ nav {
 }
 
 nav > a:link {
-    color: slateblue;
-    background-color:#87CEFA; 
+    color: #4938B7;
+    background-color:#FFFFFF; 
 }
 
 nav > a:visited {
     color: #292065;
-    background-color:#87CEFA; 
+    background-color:#FFFFFF; 
 }
 
 nav > a:active {
     color: red;
-    background-color:#87CEFA; 
+    background-color:#FFFFFF; 
 }
 
 ul {
