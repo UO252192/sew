@@ -11,8 +11,8 @@ header {
 }
 
 h1 {
-    background-color:deepskyblue; 
-    color: whitesmoke;
+    background-color:#003D57; 
+    color: #FFFFFF;
     text-transform: uppercase;
     padding: 50px 25px;
     text-align: center;     
@@ -50,25 +50,25 @@ a:active {
 }
 
 nav {
-    background-color:lightskyblue; 
-    color: whitesmoke;
+    background-color:#065788; 
+    color: #FFFFFF;
     text-transform: uppercase;
     text-align: center;     
 }
 
 nav > a:link {
     color: slateblue;
-    background-color:lightskyblue; 
+    background-color:#065788; 
 }
 
 nav > a:visited {
-    color: purple;
-    background-color:lightskyblue; 
+    color: #292065;
+    background-color:##87CEFA; 
 }
 
 nav > a:active {
     color: red;
-    background-color:lightskyblue; 
+    background-color:#065788; 
 }
 
 ul {
