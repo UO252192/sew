@@ -100,7 +100,8 @@ li {
     font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 10;
     color: black;
-    background-color: #fff
+    background-color: #fff;
+    list-style: none;
 }
 
 /*Especificidad: 1 */
