@@ -26,6 +26,14 @@ h2 {
     text-align: left;     
 }
 
+h3 {
+    background-color:#fff; 
+    color: #818181;
+    text-transform: uppercase;
+    padding: 0px 10px 20px;
+    text-align: left;     
+}
+
 a:link {
     color:blue;
     background-color: #fff
@@ -91,4 +99,9 @@ td {
 
 table, th, td {
     border: 1px solid black;
+}
+
+video {
+    width: 20%;
+    height: 20%;
 }
