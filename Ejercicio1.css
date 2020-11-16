@@ -1,0 +1,36 @@
+h1 {
+    text-transform: uppercase;
+    padding: 50px 25px;
+    text-align: center;   
+    color: #FFFFFF;
+    background-color:#003D57; 
+}
+
+h2 {
+    text-transform: uppercase;
+    padding: 0px 10px 20px;
+    text-align: left;     
+    color: #403F3F;
+    background-color:#fff; 
+}
+
+h3 {
+    text-transform: uppercase;
+    padding: 0px 10px 20px;
+    text-align: left;
+    color: #403F3F;
+    background-color:#fff; 
+}
+
+h4 {
+    text-align: left;
+    color: #403F3F;
+    background-color:#fff; 
+}
+
+p {
+    font: 400 15px Tahoma,sans-serif; 
+    line-height: 1.8;
+    color: black;
+    background-color: #fff
+}
